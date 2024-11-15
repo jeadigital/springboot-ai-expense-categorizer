@@ -16,4 +16,4 @@ The app demonstrates how to integrate machine learning with Spring Boot, providi
 ### Getting Started
 1. **Clone Repository**:
    ```bash
-   git clone <repo-url>
+   git clone https://github.com/jeadigital/springboot-ai-expense-categorizer.git
